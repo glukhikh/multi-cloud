@@ -17,7 +17,7 @@ Client<-->| API |<-+->| YandexAdapter |<-->| YandexDisk |
 
 To connect a new cloud storage to the MultiCloud you need to make sure that the cloud storage provides:
 1) A total disk space information.
-2) A free/usage disk space information.
+2) A free/occupied disk space information.
 3) A max file size information.
 4) The ability to get a list of directories.
 5) The ability to create a directory.
@@ -27,7 +27,7 @@ To connect a new cloud storage to the MultiCloud you need to make sure that the 
 9) The ability to download a file.
 10) The ability to remove a file.
 11) The ability to copy a file.
-12) The ability to get a file meta information.
+12) The ability to get/set a file meta information.
 
 Other operations can be created based on the listed. For example: move = copy + remove.
 
