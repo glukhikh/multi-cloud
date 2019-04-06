@@ -13,3 +13,7 @@ The goal of this stage is to write the Web client for using of MultiCloud API.
 # Stage 4 - MultiCloud Transactions - Autumn/Winter 2019
 
 The goal of this stage is to add transactions (for compound operations) to the MultiCloud.
+
+# Stage 5 - MultiCloud Defragmentation - 2020 [Graduation Work]
+
+The goal of this stage is to add the defragmentation.
