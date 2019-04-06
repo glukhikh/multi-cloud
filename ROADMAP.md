@@ -1,3 +1,7 @@
+# Stage 0 - MultiCloud Adapter Core - May 2019
+
+The goal of this stage is to write the MultiCloud adapter core gem.
+
 # Stage 1 - Yandex Disk Adapter - May 2019
 
 The goal of this stage is to write the MultiCloud adapter for "Yandex Disk" cloud storage.
